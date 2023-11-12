@@ -1,0 +1,24 @@
+#title{
+    font-size: 25px;
+    text-align: center;
+    }
+    .punto_7_nav{
+    background-color: pink;
+    }
+    .punto_7_nav ul{
+    display: inline-flex;
+    }
+    .punto_7_nav li{
+    padding: 12px;
+    list-style: none;
+    }
+    .punto_7_nav li:hover{
+    background-color: #0000ff;
+    }
+    .punto_7_nav a{
+    color: #ffff;
+    font-size: 25px;
+    }
+    #footer_name{
+    font-size: 15px;
+    text-align: center;}

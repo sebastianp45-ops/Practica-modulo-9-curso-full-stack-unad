@@ -1,0 +1,20 @@
+body{
+    background-color: #d3d1d1de;
+    margin: auto;
+    text-align: center;
+    }
+    #title{
+    font-size: 25px;
+    }
+    #big{
+    font-size: 30px;
+    font-weight: bolder;
+    }
+    #e_1{
+    color: #ffff00;
+    }
+    #e_2{
+    color: #800080;
+    }
+    #footer_name{
+    font-size: 10px;}
